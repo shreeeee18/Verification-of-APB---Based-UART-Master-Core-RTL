@@ -1,0 +1,713 @@
+# Current time Wed Oct  8 11:19:58 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b3ca: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b7b8: '../tb/uart_sb.sv:114'
+# 4    0xf58ef2f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e84f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7b30: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da999: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d999a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Wed Oct  8 11:22:18 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b3ca: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b7b8: '../tb/uart_sb.sv:114'
+# 4    0xf58ef2f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e84f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7b30: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da999: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d999a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Wed Oct  8 11:46:50 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b3ca: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b7b8: '../tb/uart_sb.sv:114'
+# 4    0xf58ef2f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e84f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7b30: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da999: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d999a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Wed Oct  8 12:29:40 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b44a: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b838: '../tb/uart_sb.sv:114'
+# 4    0xf58ef335: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8535: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7b70: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7339: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7339: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7339: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da9d9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d99da: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Wed Oct  8 12:31:12 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b32a: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b718: '../tb/uart_sb.sv:114'
+# 4    0xf58ef295: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8495: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ad0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da939: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d993a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Wed Oct  8 12:33:27 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0xf5d0b75a: '../tb/uart_sb.sv:116'
+# 1    0xf58ef295: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 2    0xf58e8495: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 3    0xf58e7ad0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 4    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 5    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 6    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 7    0xf58da939: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 8    0xf58d993a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 9    0x09d40209: '<unknown (@0x9d40209)>'
+# 10   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 11   0x081098d2: '<unknown (@0x81098d2)>'
+# 12   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 13   0x08831a30: '<unknown (@0x8831a30)>'
+# 14   0x08837037: '<unknown (@0x8837037)>'
+# 15   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 16   0x08b00697: '<unknown (@0x8b00697)>'
+# 17   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 18   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 19   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 20   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 21   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 22   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 23   0x08d83877: '<unknown (@0x8d83877)>'
+# 24   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 25   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 26   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 27   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 28   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 29   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 30   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 31   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Wed Oct  8 12:37:10 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0xf5d0b75a: '../tb/uart_sb.sv:116'
+# 1    0xf58ef295: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 2    0xf58e8495: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 3    0xf58e7ad0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 4    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 5    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 6    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 7    0xf58da939: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 8    0xf58d993a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 9    0x09d40209: '<unknown (@0x9d40209)>'
+# 10   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 11   0x081098d2: '<unknown (@0x81098d2)>'
+# 12   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 13   0x08831a30: '<unknown (@0x8831a30)>'
+# 14   0x08837037: '<unknown (@0x8837037)>'
+# 15   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 16   0x08b00697: '<unknown (@0x8b00697)>'
+# 17   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 18   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 19   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 20   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 21   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 22   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 23   0x08d83877: '<unknown (@0x8d83877)>'
+# 24   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 25   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 26   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 27   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 28   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 29   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 30   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 31   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Wed Oct  8 12:38:28 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b32a: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b6d4: '../tb/uart_sb.sv:113'
+# 4    0xf58ef295: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8495: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ad0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da939: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d993a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:29:25 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b32a: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b6d4: '../tb/uart_sb.sv:113'
+# 4    0xf58ef295: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8495: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ad0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da939: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d993a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:30:41 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b32a: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b6d4: '../tb/uart_sb.sv:113'
+# 4    0xf58ef295: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8495: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ad0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7299: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da939: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d993a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:32:04 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b2ea: '../tb/uart_sb.sv:106'
+# 3    0xf5d0b6d8: '../tb/uart_sb.sv:114'
+# 4    0xf58ef285: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8485: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ac0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da929: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d992a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:32:55 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b113: '../tb/uart_sb.sv:107'
+# 3    0xf58eefd5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 4    0xf58e81d5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 5    0xf58e7810: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 6    0xf58e6fd9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 7    0xf58e6fd9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e6fd9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58da679: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 10   0xf58d967a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 11   0x09d40209: '<unknown (@0x9d40209)>'
+# 12   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 13   0x081098d2: '<unknown (@0x81098d2)>'
+# 14   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 15   0x08831a30: '<unknown (@0x8831a30)>'
+# 16   0x08837037: '<unknown (@0x8837037)>'
+# 17   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 18   0x08b00697: '<unknown (@0x8b00697)>'
+# 19   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 20   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 21   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 22   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 23   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 24   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 25   0x08d83877: '<unknown (@0x8d83877)>'
+# 26   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 27   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 28   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 29   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 30   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 31   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 32   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 33   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:34:34 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b2fa: '../tb/uart_sb.sv:105'
+# 3    0xf5d0b6a4: '../tb/uart_sb.sv:112'
+# 4    0xf58ef285: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8485: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ac0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da929: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d992a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:36:11 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b38a: '../tb/uart_sb.sv:105'
+# 3    0xf5d0b778: '../tb/uart_sb.sv:113'
+# 4    0xf58ef2f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e84f5: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7b30: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e72f9: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da999: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d999a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:36:35 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b2fa: '../tb/uart_sb.sv:105'
+# 3    0xf5d0b6a4: '../tb/uart_sb.sv:112'
+# 4    0xf58ef285: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8485: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ac0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da929: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d992a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct  9 09:37:01 2025
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0x08d1d17c: '<unknown (@0x8d1d17c)>'
+# 1    0x08285f2f: '<unknown (@0x8285f2f)>'
+# 2    0xf5d0b2fa: '../tb/uart_sb.sv:105'
+# 3    0xf5d0b6e8: '../tb/uart_sb.sv:113'
+# 4    0xf58ef285: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:323'
+# 5    0xf58e8485: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:108'
+# 6    0xf58e7ac0: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:81'
+# 7    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 8    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 9    0xf58e7289: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_bottomup_phase.svh:61'
+# 10   0xf58da929: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 11   0xf58d992a: '/home/cad/eda/Questa-sim/questasim/linux/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 12   0x09d40209: '<unknown (@0x9d40209)>'
+# 13   0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 14   0x081098d2: '<unknown (@0x81098d2)>'
+# 15   0x08323f3d: '<unknown (@0x8323f3d)>'
+# 16   0x08831a30: '<unknown (@0x8831a30)>'
+# 17   0x08837037: '<unknown (@0x8837037)>'
+# 18   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 19   0x08b00697: '<unknown (@0x8b00697)>'
+# 20   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 21   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 22   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 23   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 24   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 25   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 26   0x08d83877: '<unknown (@0x8d83877)>'
+# 27   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 28   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 29   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 30   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 31   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 32   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 33   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 34   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
